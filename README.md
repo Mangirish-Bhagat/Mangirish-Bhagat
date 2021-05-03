@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img title="Code - TypeScript" alt="Code - Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3178C6"/>
+  <img title="Code - Python" alt="Code - Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3178C6"/>
   <img title="Code - React" alt="Code - React" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB"/>
   <img title="Code - React" alt="Code - ReactNative" src="https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=61DAFB"/> 
   <img title="Code - JavaScript" alt="Code - JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"/>
