@@ -29,7 +29,7 @@ I'll be honored to collaborate with anyone on any project, my Discord is right d
 
 
 
-<sub>Discord: @ManBhagat#0833 | Twitter: <a href="https://twitter.com/Mangi_Bhagat">@Mangi_Bhagat</a></sub>
+<sub>Discord: @ManBhagat#0833 | Twitter: <a href="https://twitter.com/Mangi_Bhagat"> @Mangi_Bhagat</a></sub>
 
 
 <!--
