@@ -12,7 +12,6 @@
   <img title="Code - React" alt="Code - React" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB"/>
   <img title="Code - React" alt="Code - ReactNative" src="https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=61DAFB"/> 
   <img title="Code - JavaScript" alt="Code - JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"/>
-  <img title="Code - Flutter" alt="Code - Flutter" src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=239120"/>
   <img title="Code - HTML" alt="Code - HTML" src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=239120"/>
   <img title="Code - CSS" alt="Code - CSS" src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=239120"/>
   <img title="DB - SQL" alt="Code - SQL" src="https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=MYSQL&logoColor=white&color=2C2D72"/>
@@ -21,7 +20,7 @@
  
 </p>
 
-### Oh, I see you are here, lurking around my profile.
+### Oh, I see you are here, lurking around my profile...
 <!--First of all, welcome. I am Goldy, not that new around here. I began my programming "career" back in 2015 in a small platform called Roblox. Currently I am a full stack programmer who'se finishing his education and contributing to open source projects.
 
 I'll be honored to collaborate with anyone on any project, my Discord is right down there if you'd like to contact me. -->
