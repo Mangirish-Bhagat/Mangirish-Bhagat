@@ -1,7 +1,7 @@
 <h2 style="font-size:100px;" align="center">
-  <img src="pfp-c.png" height="150vh"></img>
+  <!--<img src="pfp-c.png" height="150vh"></img>-->
   <br/>
-  Hola, I'm Mangirish Bhagat
+  Hola, I'm Mangirish Bhagat 🖐
   <br/>
   <br/>
  </h2>
