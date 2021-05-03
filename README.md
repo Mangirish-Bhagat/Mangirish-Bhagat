@@ -8,7 +8,8 @@
 
 
 <p align="center">
-  <img title="Code - React" alt="Code - React" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB"/> 
+  <img title="Code - React" alt="Code - React" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB"/>
+  <img title="Code - React" alt="Code - React Native" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB"/> 
   <img title="Code - TypeScript" alt="Code - TypeScript" src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6"/>
   <img title="Code - JavaScript" alt="Code - JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"/>
   <img title="Code - Lua" alt="Code - Lua" src="https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=Lua&logoColor=white&color=2C2D72"/>
@@ -21,11 +22,11 @@
 
 I'll be honored to collaborate with anyone on any project, my Discord is right down there if you'd like to contact me. -->
 
-### And now: some stats
+<!--### And now: some stats-->
 
 
 
-<sub>Discord: @Goldy#6300 | Twitter: <a href="https://twitter.com/GoldyyDev">@GoldyyDev</a></sub>
+<sub>Discord: @ManBhagat#0833 | Twitter: <a href="https://twitter.com/Mangi_Bhagat">@G@Mangi_Bhagat</a></sub>
 
 
 <!--
