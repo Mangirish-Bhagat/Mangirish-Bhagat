@@ -1,7 +1,7 @@
 <h2 style="font-size:100px;" align="center">
   <img src="pfp-c.png" height="150vh"></img>
   <br/>
-  GoldyyDev
+  Hola, I'm Mangirish Bhagat
   <br/>
   <br/>
  </h2>
@@ -17,9 +17,9 @@
 </p>
 
 ### Oh, I see you are here, lurking around my profile.
-First of all, welcome. I am Goldy, not that new around here. I began my programming "career" back in 2015 in a small platform called Roblox. Currently I am a full stack programmer who'se finishing his education and contributing to open source projects.
+<!--First of all, welcome. I am Goldy, not that new around here. I began my programming "career" back in 2015 in a small platform called Roblox. Currently I am a full stack programmer who'se finishing his education and contributing to open source projects.
 
-I'll be honored to collaborate with anyone on any project, my Discord is right down there if you'd like to contact me. 
+I'll be honored to collaborate with anyone on any project, my Discord is right down there if you'd like to contact me. -->
 
 ### And now: some stats
 
