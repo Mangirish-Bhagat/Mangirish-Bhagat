@@ -13,7 +13,7 @@
   <img title="Code - TypeScript" alt="Code - Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3178C6"/>
   <img title="Code - JavaScript" alt="Code - JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"/>
   <img title="Code - SQL" alt="Code - SQL" src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Lua&logoColor=white&color=2C2D72"/>
-  <img title="Code - C#" alt="Code - C#" src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=239120"/>
+  <img title="Code - C#" alt="Code - C#" src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=C%20Sharp&logoColor=white&color=239120"/>
  
 </p>
 
@@ -26,7 +26,7 @@ I'll be honored to collaborate with anyone on any project, my Discord is right d
 
 
 
-<sub>Discord: @ManBhagat#0833 | Twitter: <a href="https://twitter.com/Mangi_Bhagat">@G@Mangi_Bhagat</a></sub>
+<sub>Discord: @ManBhagat#0833 | Twitter: <a href="https://twitter.com/Mangi_Bhagat">@Mangi_Bhagat</a></sub>
 
 
 <!--
