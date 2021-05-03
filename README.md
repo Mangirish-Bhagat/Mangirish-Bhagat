@@ -10,7 +10,7 @@
 <p align="center">
   <img title="Code - React" alt="Code - React" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB"/>
   <img title="Code - React" alt="Code - ReactNative" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB"/> 
-  <img title="Code - TypeScript" alt="Code - TypeScript" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6"/>
+  <img title="Code - TypeScript" alt="Code - TypeScript" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3178C6"/>
   <img title="Code - JavaScript" alt="Code - JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"/>
   <img title="Code - Lua" alt="Code - Lua" src="https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=Lua&logoColor=white&color=2C2D72"/>
   <img title="Code - C#" alt="Code - C#" src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=239120"/>
