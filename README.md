@@ -14,6 +14,7 @@
   <img title="Code - JavaScript" alt="Code - JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"/>
   <img title="Code - HTML" alt="Code - HTML" src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=239120"/>
   <img title="Code - CSS" alt="Code - CSS" src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=239120"/>
+  <img title="DB - NodeJS" alt="Code - NodeJS" src="https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=2C2D72"/>
   <img title="DB - SQL" alt="Code - SQL" src="https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=MYSQL&logoColor=white&color=2C2D72"/>
   <img title="DB - MongoDB" alt="Code - MongoDB" src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2C2D72"/>
   
