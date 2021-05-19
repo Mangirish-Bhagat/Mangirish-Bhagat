@@ -21,7 +21,7 @@
  
 </p>
 
-### Oh, I see you are here, lurking around my profile...
+<!-- ### Oh, I see you are here, lurking around my profile... -->
 <!--First of all, welcome. I am Goldy, not that new around here. I began my programming "career" back in 2015 in a small platform called Roblox. Currently I am a full stack programmer who'se finishing his education and contributing to open source projects.
 
 I'll be honored to collaborate with anyone on any project, my Discord is right down there if you'd like to contact me. -->
