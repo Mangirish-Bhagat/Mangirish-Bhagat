@@ -25,7 +25,7 @@
 </p>
 
 <h3>
-  I'll be honored to collaborate with anyone on any project, my social handles are mentioned below if you'd like to contact me.
+  I am open for freelance projects, also I'll be honored to collaborate with anyone on any project, my social handles are mentioned below if you'd like to contact me.
 </h3>
 
 
