@@ -24,9 +24,9 @@
  
 </p>
 
-<h3>
+<!-- <h3>
   I am open for freelance projects, also I'll be honored to collaborate with anyone on any project, my social handles are mentioned below if you'd like to contact me 🙂
-</h3>
+</h3> -->
 
 
 <!-- ### Oh, I see you are here, lurking around my profile... -->
