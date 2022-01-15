@@ -7,7 +7,7 @@
  </h2>
  
  <h3>
-  I am a full stack developer skilled in below mentioned skills. currently working as a software developer.
+  I am a full stack developer skilled in below mentioned skills. currently working as a software developer 💻
 </h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <h3>
-  I am open for freelance projects, also I'll be honored to collaborate with anyone on any project, my social handles are mentioned below if you'd like to contact me.
+  I am open for freelance projects, also I'll be honored to collaborate with anyone on any project, my social handles are mentioned below if you'd like to contact me 🙂
 </h3>
 
 
