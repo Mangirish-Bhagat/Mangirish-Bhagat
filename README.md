@@ -7,7 +7,11 @@
  </h2>
  
  <h3>
-  I am a full stack programmer
+  I am a full stack developer skilled in above mentioned skills. currently working as a software developer.
+</h3>
+
+<h3>
+  I'll be honored to collaborate with anyone on any project, my social handles are mentioned below if you'd like to contact me.
 </h3>
 
 
@@ -33,7 +37,7 @@ I'll be honored to collaborate with anyone on any project, my Discord is right d
 <!--### And now: some stats-->
 
 
-<h2> CONTACT ME !</h2>
+<!-- <h2> CONTACT ME !</h2> -->
 <p>Discord: @ManBhagat#0833  |  Twitter: <a href="https://twitter.com/Mangi_Bhagat"> @Mangi_Bhagat</a>  |  LinkedIn: <a href="https://www.linkedin.com/in/mangirish-bhagat/"> Mangirish Bhagat</a>  |  Instagram: <a href="https://www.instagram.com/mangirish.bhagat/"> Mangirish.bhagat</a></p>
 
 
