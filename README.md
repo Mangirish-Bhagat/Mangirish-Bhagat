@@ -7,13 +7,8 @@
  </h2>
  
  <h3>
-  I am a full stack developer skilled in above mentioned skills. currently working as a software developer.
+  I am a full stack developer skilled in below mentioned skills. currently working as a software developer.
 </h3>
-
-<h3>
-  I'll be honored to collaborate with anyone on any project, my social handles are mentioned below if you'd like to contact me.
-</h3>
-
 
 <p align="center">
   <img title="Code - Python" alt="Code - Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3178C6"/>
@@ -28,6 +23,11 @@
   
  
 </p>
+
+<h3>
+  I'll be honored to collaborate with anyone on any project, my social handles are mentioned below if you'd like to contact me.
+</h3>
+
 
 <!-- ### Oh, I see you are here, lurking around my profile... -->
 <!--First of all, welcome. I am Goldy, not that new around here. I began my programming "career" back in 2015 in a small platform called Roblox. Currently I am a full stack programmer who'se finishing his education and contributing to open source projects.
