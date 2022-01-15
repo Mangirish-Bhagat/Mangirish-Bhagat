@@ -29,8 +29,8 @@ I'll be honored to collaborate with anyone on any project, my Discord is right d
 <!--### And now: some stats-->
 
 
-
-<sub>Discord: @ManBhagat#0833  |  Twitter: <a href="https://twitter.com/Mangi_Bhagat"> @Mangi_Bhagat</a>  |  LinkedIn: <a href="https://www.linkedin.com/in/mangirish-bhagat/"> Mangirish Bhagat</a>  |  |  Instagram: <a href="https://www.instagram.com/mangirish.bhagat/"> Mangirish.bhagat</a></sub>
+<h2> CONTACT ME !</h2>
+<sub>Discord: @ManBhagat#0833  |  Twitter: <a href="https://twitter.com/Mangi_Bhagat"> @Mangi_Bhagat</a>  |  LinkedIn: <a href="https://www.linkedin.com/in/mangirish-bhagat/"> Mangirish Bhagat</a>  |  Instagram: <a href="https://www.instagram.com/mangirish.bhagat/"> Mangirish.bhagat</a></sub>
 
 
 <!--
