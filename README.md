@@ -35,10 +35,10 @@
 I'll be honored to collaborate with anyone on any project, my Discord is right down there if you'd like to contact me. -->
 
 <!--### And now: some stats-->
-
+<!-- Twitter: <a href="https://twitter.com/Mangi_Bhagat"> @Mangi_Bhagat</a> -->
 
 <!-- <h2> CONTACT ME !</h2> -->
-<p>Discord: @ManBhagat#0833  |  Twitter: <a href="https://twitter.com/Mangi_Bhagat"> @Mangi_Bhagat</a>  |  LinkedIn: <a href="https://www.linkedin.com/in/mangirish-bhagat/"> Mangirish Bhagat</a>  |  Instagram: <a href="https://www.instagram.com/mangirish.bhagat/"> Mangirish.bhagat</a></p>
+<p>Discord: @ManBhagat#0833  |  LinkedIn: <a href="https://www.linkedin.com/in/mangirish-bhagat/"> Mangirish Bhagat</a>  |  Instagram: <a href="https://www.instagram.com/mangirish.bhagat/"> Mangirish.bhagat</a></p>
 
 
 <!--
