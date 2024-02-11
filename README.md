@@ -7,7 +7,7 @@
  </h2>
  
  <h3>
-  I am a full stack developer skilled in below mentioned skills. currently working as a software developer 💻
+  I am a full stack developer skilled in below mentioned skills. currently working as a freelance software developer 💻
 </h3>
 
 <p align="center">
